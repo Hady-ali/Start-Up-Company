@@ -26,6 +26,22 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #ff0000;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 header {
   background-color: rgb(58, 11, 102);
   color: #fff;
@@ -40,6 +56,21 @@ header {
   position: fixed;
   z-index: 99999999;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 header h2 {
   transition: ease 0.5s;
   cursor: pointer;
